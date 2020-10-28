@@ -17,6 +17,7 @@ With Monarch’s attractive returns, sales, earnings, and dividends relative to 
 
 #### Brendan Kiely, 10/28/2020
 
+
 <sup>1</sup> Peter Lynch and John Rothchild, *One Up on Wall Street: How to Use What You Already Know to Make Money in the Market*, 2nd ed. (Simon & Schuster, 2000).  
 <sup>2</sup>Joel Greenblatt, *The Little Book That Still Beats the Market,* (John Wiley & Sons, 2010), 110.  
 <sup>3</sup>For this passage, earnings figures refer to net income on the income statement across all years.  
