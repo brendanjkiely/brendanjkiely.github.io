@@ -1,5 +1,3 @@
-## Equity Research with a Value Approach, by Brendan Kiely
-
 ### Click on company name for my analysis
 
 
