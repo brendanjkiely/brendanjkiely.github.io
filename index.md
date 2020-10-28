@@ -2,5 +2,4 @@
 
 
 ### [Monarch Cement Company](blog_post_mcem.md)
-### [Second one](blog_post_two.md)
-### [Third](blog_post_three.md)
+
