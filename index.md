@@ -1,4 +1,4 @@
-## Equity Research blog posts
+## Equity Research Blog Posts
 #### Click on company name for my analysis
 
 
