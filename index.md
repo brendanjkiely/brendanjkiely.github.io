@@ -1,5 +1,5 @@
-## Brendan Kiely's Blog
-### Click companies below to find my blog post about them
+## Brendan Kiely's equity research blog posts, sorted by company 
+### 
 
 
 ### [Monarch Cement Company](blog_post_mcem.md)
