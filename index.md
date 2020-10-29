@@ -2,7 +2,9 @@
 
 
 ##### [Monarch Cement Company](blog_post_mcem.md)  
-  
+
+<br>  
+<br>
       
 ##### [About the Author](about_bk.md)
 
