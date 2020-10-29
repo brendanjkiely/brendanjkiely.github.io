@@ -20,7 +20,8 @@ With Monarch’s attractive returns, sales, earnings, and dividends relative to 
 
 In order of reference:    
 Peter Lynch and John Rothchild, *One Up on Wall Street: How to Use What You Already   Know to Make Money in the Market*, 2nd ed. (Simon & Schuster, 2000).    
-Joel Greenblatt, *The Little Book That Still Beats the Market,* (John Wiley & Sons, 2010),     110.     
+Joel Greenblatt, *The Little Book That Still Beats the Market,* (John Wiley & Sons, 2010),  
+ 	110.     
 “Financials,” Monarch Cement Company, accessed October 22, 2020, http://monarchcement.com/investors/financials/.     
 Benjamin Graham and Jason Zweig, *The Intelligent Investor: The Definitive Book on Value Investing*, Revised (Harper Business, 2006).  
 “Monarch Cement Co. Index Comparisons,” Charles Schwab, accessed October 22, 2020.    
