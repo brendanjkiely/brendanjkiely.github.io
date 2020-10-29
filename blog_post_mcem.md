@@ -1,6 +1,6 @@
 # Monarch Cement Company (MCEM)   
 
-The first company that became part of my portfolio is in a line of business that some may find boring: Cement. I decided that, at least for now, it didn’t make sense to shy away from boring industries or companies. My goal is to find companies that I can buy for bargain prices in any industry. Peter Lynch was my main inspiration for embracing boring industries and companies. He argues that boring companies are often ignored by most investors, who would rather follow cutting-edge companies with new technologies and attractive products. He suggests (at least for an amateur like myself) turning instead to companies with boring, time-tested products that are made better by other technologies that improve their production efficiency or implementation.<sup>1</sup> Monarch Cement Company is exactly that.  
+The first company that became part of my portfolio is in a line of business that some may find boring: Cement. I decided that, at least for now, it didn’t make sense to shy away from boring industries or companies. My goal is to find companies that I can buy for bargain prices in any industry. Peter Lynch was my main inspiration for embracing boring industries and companies. He argues that boring companies are often ignored by most investors, who would rather follow cutting-edge companies with new technologies and attractive products. He suggests (at least for an amateur like myself) turning instead to companies with boring, time-tested products that are made better by other technologies that improve their production efficiency or implementation. Monarch Cement Company is exactly that.  
 
 Monarch Cement Co. has been manufacturing cement in Kansas for over 100 years. Their main products are ready-mix concrete and portland cement—a generic term for the cement used in almost all concrete today. I approached this equity with a Ben Graham approach, using many of his metrics to evaluate the company. As I’ll explain, it passed many of these conditions with flying colors. I will say, however, that I do not consider this company a “cigar butt” that I chose simply for its discount. Monarch Cement Company is trading at an attractive price below book value, but it also offers a record of earnings growth and a record of improving its financial position year-over-year. 
 
@@ -18,10 +18,9 @@ With Monarch’s attractive returns, sales, earnings, and dividends relative to 
 #### Brendan Kiely, 10/28/2020
 <br>
 
-In order of reference:    
-Peter Lynch and John Rothchild, *One Up on Wall Street: How to Use What You Already   Know to Make Money in the Market*, 2nd ed. (Simon & Schuster, 2000).    
-Joel Greenblatt, *The Little Book That Still Beats the Market,* (John Wiley & Sons, 2010),  
- 	110.     
-“Financials,” Monarch Cement Company, accessed October 22, 2020, http://monarchcement.com/investors/financials/.     
-Benjamin Graham and Jason Zweig, *The Intelligent Investor: The Definitive Book on Value Investing*, Revised (Harper Business, 2006).  
-“Monarch Cement Co. Index Comparisons,” Charles Schwab, accessed October 22, 2020.    
+**Sources, In order of reference:**    
+1. Peter Lynch and John Rothchild, *One Up on Wall Street: How to Use What You Already Know to Make Money in the Market*, 2nd ed. (Simon & Schuster, 2000).  
+2. Joel Greenblatt, *The Little Book That Still Beats the Market,* (John Wiley & Sons, 2010), 110.     
+3. “Financials,” Monarch Cement Company, accessed October 22, 2020, http://monarchcement.com/investors/financials/.     
+4. Benjamin Graham and Jason Zweig, *The Intelligent Investor: The Definitive Book on Value Investing*, Revised (Harper Business, 2006).  
+5. “Monarch Cement Co. Index Comparisons,” Charles Schwab, accessed October 22, 2020.    
