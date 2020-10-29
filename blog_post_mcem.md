@@ -23,4 +23,4 @@ With Monarch’s attractive returns, sales, earnings, and dividends relative to 
 <sup>3</sup>For this passage, earnings figures refer to net income on the income statement across all years.  
 <sup>4</sup>“Financials,” Monarch Cement Company, accessed October 22, 2020, http://monarchcement.com/investors/financials/.  
 <sup>5</sup>Benjamin Graham and Jason Zweig, *The Intelligent Investor: The Definitive Book on Value Investing*, Revised (Harper Business, 2006); Greenblatt, *The Little Book That Still Beats the Market*.  
-<sup>6 </sup>“Monarch Cement Co. Index Comparisons,” Charles Schwab, accessed October 22, 2020.  
+<sup>6</sup>“Monarch Cement Co. Index Comparisons,” Charles Schwab, accessed October 22, 2020.  
