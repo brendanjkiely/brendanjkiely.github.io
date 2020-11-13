@@ -17,7 +17,7 @@ Corcept doesn’t check all the boxes for a traditional value play. I don’t th
 #### Brendan Kiely, 11/13/2020 
 <br>
 
-**Sources, In Order of Reference**
+**Sources, In Order of Reference:**
 1. Corcept. See  “Cortisol Modulation,” “Cortisol Modulation Therapeutic Platform,” and “Pipeline and Clinical Trials” under “Research and Pipeline.” Accessed November 9, 2020. https://www.corcept.com/research-pipeline/impact-of-cortisol-and-gr-modulation/.  
 2. “SEC Filings | Corcept.” Accessed November 11, 2020. https://ir.corcept.com/sec-filings/.  
 3. “Corcept Therapeutics Announces Third Quarter 2020 Financial Results and Provides Corporate Update - Corcept.” Accessed November 9, 2020. https://ir.corcept.com/news-releases/news-release-details/corcept-therapeutics-announces-third-quarter-2020-financial/.  
