@@ -29,7 +29,7 @@ Unlike some of my past investments, profitability and cash flows are what drew m
 2. “Annual Report.” 10-K. Tyson Foods, Inc., n.d. SEC Filings. Tyson.com/Investors.
 3. Lynch, Peter, and John Rothchild. *One up on Wall Street: How to Use What You Already Know to Make Money In the Market*. Riverside: Simon & Schuster, 2000.
 4. TIKR Terminal. “Tyson Foods, Inc. (TSN).” Accessed January 7, 2021.
-5. Morningstar. “Tyson Foods Inc Class A (TSN) Valuation - XNYS | Morningstar.” Accessed January 7, 2021.
+5. Morningstar. “Tyson Foods Inc Class A (TSN) Valuation - XNYS, Morningstar.” Accessed January 7, 2021.
 6. Marks, Howard. *The Most Important Thing: Uncommon Sense for the Thoughtful Investor*. Columbia Business School Publishing. New York, NY: Columbia University Press, 2011.
 7. Charles Schwab. “Tyson Foods Inc, Comparisons.” Accessed January 7, 2021.
 8. Wamsley, Laurel. “Tyson Foods Fires 7 Plant Managers Over Betting Ring On Workers Getting COVID-19.” NPR.org, December 16, 2020.
