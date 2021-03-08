@@ -1,11 +1,11 @@
 # KT Corporation (KT)
 
-### Background
-It may come as a surprise that the next addition to my portfolio is a company at the cutting edge of 5G innovation. I try to stay clear of predicting the next big player in a space and stick to companies that offer proven products with competitive advantages or products that I think will last for decades into the future. Although KT Corp is a telecommunications company fighting to be a world leader in 5G, they have a strong history within the Korean telecom industry and offer a diverse range of products that produce hefty, predictable, and (most of all) cheap free cash flows. 
+#### Background
+It may come as a surprise that the next addition to my portfolio is a company at the cutting edge of 5G innovation. I try to stay clear of predicting the next big player in a space and stick to companies that offer proven products with competitive advantages or products that I think will last for decades into the future. Although KT Corp is a Korean telecommunications company fighting to be a world leader in 5G, they have a strong history within the Korean telecom industry and offer a diverse range of products that produce hefty, predictable, and (most of all) cheap free cash flows. 
 
 KT Corp is the largest broadband internet service provider by market share in South Korea (40%), and they’re one of three mobile phone carriers in the country. Although their main competitor, SK Telecom, has the largest market share of mobile phone service providers, KT still holds 32%. They reside within an oligopoly of some of the most advanced telecom companies in the world, and I don’t think they’re disappearing anytime soon. In addition to their broadband internet and mobile phone services, they also offer: Energy management and storage systems; security systems; software platforms for healthcare and government entities; and an internet-only bank. With this variety of revenue streams, KT has opportunities for growth within the B2C space as well as the B2B space. However, as you’ll see, I’m not betting on KT winning the 5G race or coming up with the next big thing. Why not? I don’t have to. And neither do you. Its competitors may also have large market shares and produce innovative products, but KT offers predictable, plentiful cash flows and strong fundamentals at a much lower price. In a hot and innovative space, KT offers surprising value and an enticing investment opportunity.
 
-### Analysis
+#### Analysis
 
 
 KT’s financials tell a different story from the companies I’ve analyzed in the past. For one, they hold more debt than the companies that I’ve picked in the past. Their current ratio sits at 1.24x, Debt/Equity is at 50%, and their interest coverage ratio is a healthy 4.12x. Interest coverage has stayed consistent and even improved slightly over the past decade, so I’m not worried about KT’s ability to cover their debt obligations. 
@@ -21,31 +21,26 @@ It’s also important to look at KT’s price in the context of its competitors.
 
 I’ll admit, their competitors do have a leg up on KT in some aspects. The competitors are killing KT on gross profit margin, but their EBIT and cash flow margins only slightly beat KT’s margins. KT also has the lowest 1-year sales growth out of the 3-company oligopoly. The other Korean telecom companies may hold small advantages over KT when it comes to margins and short-term sales growth, but for each dollar of investment, you can get significantly more earnings, free cash flow, and overall value from KT. In comparison with its competitors, KT stands alone in its margin of safety, making it the most attractive investment opportunity.
 
-### Valuation
+#### Valuation
 
 The reason that I love the predictability of KT is because it gives us more of an ability to predict cash flows in the future. The real value of an investment is the present value of the cash you can get out of it, and KT’s stable and predictable cash flows give us more confidence and a greater margin of safety as we assess the investment prospects of the business. Because KT has a record of consistency, I feel less uncertainty as I make assumptions. In addition to the revenues and earnings I talked about earlier, cash from operations has followed the same stable pattern. But let’s focus on free cash flow, which is what we’re really after. In 2020, KT brought in $3.60 of free cash flow per share, and with KT trading around $11.50 today, KT is an optimal choice for investors seeking free cash flow at a great price. I’m now going to go over some discounted free cash flow projections that I did, and this is where predictability becomes more important. A projection is only as good as its assumptions, but because KT has such predictable returns on equity and returns on capital, I can make solid assumptions about future returns while building in a strong margin of safety. 
 
   I did a simplified version of a discounted free cash flow model. I projected out free cash flows and discounted them back using a 15% discount rate. Because I’m not an expert on Korean telecom companies, or even telecom companies for that matter, I wanted to build in a strong margin of safety, so I chose a discount rate that would require returns significantly higher than the lifetime average S&P 500 return of 8%. Assuming no free cash flow growth, I found an intrinsic value of between $19 and $25 per share for our 15% discount rate/annual return. I used a variety of free cash flow estimates and consolidated my results into an intrinsic value range. The free cash flow estimates were created using the following: KT’s free cash flow figure from 2020; average free cash flow of the past 5 years; and average free cash flow of the past 10 years. After doing the full discounting calculations using these different estimates, I consolidated my results to create an intrinsic value range of $19-$25. These projections are far from perfect, but they tell a story of an undervalued KT that can provide returns north of 15% if cash flows persist at their current level and the stock is purchased at its current price of $11.53. But let’s say free cash flow can’t stay this high. Even with free cash flow decreasing at 5% per year, KT’s intrinsic value still sits in the $15-$18 range based on my projections (These projections were also based on a 15% discount rate). I’m no modeling expert, but these calculations were a major factor in my investment decision because of the unemotional, objective nature of the calculations and the strong margin of safety that they revealed.
   
-### Conclusion
+#### Conclusion
 
 It is clear to me that KT offers an adequate margin of safety. Not only do they provide stable earnings and predictable cash flows at a significantly cheaper price than their competitors, but there is a significant gap between my calculated intrinsic value and the price of KT Corp stock. Even after building in a conservative discount factor, I found a significant margin of safety unseen in any of the past companies that I’ve analyzed. With this margin of safety, I see sublime value in owning stock in KT Corp. I have confidence that KT will continue to pump out strong free cash flows, meet its intrinsic value over time, and compound capital over the long-term.
 
-## Brendan Kiely, 3/8/2021
+### Brendan Kiely, 3/8/2021
 
-### Sources, in order of reference:
+#### Sources, in order of reference:
 
-Statista. “South Korea: High-Speed Internet Provider Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700595/south-korea-high-speed-internet-provider-market-share/.
-
-Statista. “South Korea: Mobile Phone Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700467/south-korea-mobile-phone-market-share/.
-
-“Global Business | KT.” Accessed March 7, 2021. https://corp.kt.com/eng/html/global/main.html.
-
-TIKR: Institutional-grade investing for Individuals. “KT Corporation (KT).” Accessed March 7, 2021. https://app.tikr.com/stock/financials?cid=416000&tid=2623479.
-
-Morningstar. “KT Corp ADR (KT) Valuation.” Accessed March 7, 2021. https://www.morningstar.com/stocks/xnys/kt/valuation.
-
-Charles Schwab. “KT Corp, Comparisons.” Accessed March 7, 2021. https://client.schwab.com/secure/cc/research/stocks/stocks.html?path=/research/Client/Stocks/Earnings/Ratios&symbol=KT.
+1. Statista. “South Korea: High-Speed Internet Provider Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700595/south-korea-high-speed-internet-provider-market-share/.
+2. Statista. “South Korea: Mobile Phone Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700467/south-korea-mobile-phone-market-share/.
+3. “Global Business | KT.” Accessed March 7, 2021. https://corp.kt.com/eng/html/global/main.html.
+4. TIKR: Institutional-grade investing for Individuals. “KT Corporation (KT).” Accessed March 7, 2021. https://app.tikr.com/stock/financials?cid=416000&tid=2623479.
+5. Morningstar. “KT Corp ADR (KT) Valuation.” Accessed March 7, 2021. https://www.morningstar.com/stocks/xnys/kt/valuation.
+6. Charles Schwab. “KT Corp, Comparisons.” Accessed March 7, 2021. https://client.schwab.com/secure/cc/research/stocks/stocks.html?path=/research/Client/Stocks/Earnings/Ratios&symbol=KT.
 
   
 
