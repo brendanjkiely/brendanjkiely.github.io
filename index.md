@@ -4,7 +4,7 @@
 ##### [Monarch Cement Company](blog_post_mcem.md)  
 ##### [Corcept Therapeutics](blog_post_two.md)
 ##### [Tyson Foods](blog_post_tsn.md)
-##### [KT Corporation](blog_post_kt.md)
+##### [KT Corp](blog_post_kt.md)
 <br>  
 <br>
 <br>
