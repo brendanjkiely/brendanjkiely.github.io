@@ -33,8 +33,8 @@ It is clear to me that KT offers an adequate margin of safety. Not only do they 
 
 ### Brendan Kiely, 3/8/2021
 <br>
-<br>
-#### Sources, in order of reference:
+
+**Sources, in order of reference:**
 
 1. Statista. “South Korea: High-Speed Internet Provider Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700595/south-korea-high-speed-internet-provider-market-share/.
 2. Statista. “South Korea: Mobile Phone Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700467/south-korea-mobile-phone-market-share/.
