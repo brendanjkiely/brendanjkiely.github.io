@@ -32,7 +32,8 @@ The reason that I love the predictability of KT is because it gives us more of a
 It is clear to me that KT offers an adequate margin of safety. Not only do they provide stable earnings and predictable cash flows at a significantly cheaper price than their competitors, but there is a significant gap between my calculated intrinsic value and the price of KT Corp stock. Even after building in a conservative discount factor, I found a significant margin of safety unseen in any of the past companies that I’ve analyzed. With this margin of safety, I see sublime value in owning stock in KT Corp. I have confidence that KT will continue to pump out strong free cash flows, meet its intrinsic value over time, and compound capital over the long-term.
 
 ### Brendan Kiely, 3/8/2021
-
+<br>
+<br>
 #### Sources, in order of reference:
 
 1. Statista. “South Korea: High-Speed Internet Provider Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700595/south-korea-high-speed-internet-provider-market-share/.
