@@ -8,3 +8,5 @@
 <img width="813" alt="GTN Earnings Trends" src="https://user-images.githubusercontent.com/72818268/116291864-12909c00-a763-11eb-8a5d-b5f11ca6cd91.png">
 
 <img width="813" alt="GTN Debt:Equity" src="https://user-images.githubusercontent.com/72818268/116291899-18867d00-a763-11eb-9981-7575af9abbd3.png">
+
+<img width="1127" alt="GTN Coverage Map" src="https://user-images.githubusercontent.com/72818268/116305740-327b8c00-a772-11eb-84c3-a94c84c2ac56.png">
