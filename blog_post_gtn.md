@@ -4,7 +4,7 @@
 I try my best to stick to industries that I’m at least somewhat familiar with, but the next equity that I added to my portfolio was too valuable to pass up, and it was in a space where I never anticipated having a stake: Television Media. Gray Television has demonstrated an ability to grow revenues, earnings, and cash flows in a space that some might dismiss as “dying” due to the rise of streaming services. Best of all, as they’ve boosted earnings while simultaneously improving their financial position, owning a piece of their free cash flows and earnings has gotten cheaper. Through my analysis and modeling, I found a significant margin of safety between Gray Television’s present price of $20.15 and the intrinsic value of one share of Gray Television. I’ll dive into my analysis soon, but first, an overview of Gray Television, Inc.
 
 Gray Television’s core operations include the ownership and operation of roughly 100 TV stations. The vast majority of these are local news stations, and most are affiliates of ABC, CBS, NBC, or Fox. Their stations are spread across the country, but they mostly cover markets in the Southern and Eastern parts of the United States. Their market coverage is heavily diversified, though. In 2019 and 2020, Gray’s largest markets, Charlotte and Cleveland, each produced only 4% of their total revenue. Their top 10 markets contributed a combined 24% of revenue for 2020. The map below shows the geographic diversification of Gray’s stations.
-
+![chart]"https://user-images.githubusercontent.com/72818268/116305740-327b8c00-a772-11eb-84c3-a94c84c2ac56.png"
 
 #### Analysis
 
