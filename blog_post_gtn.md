@@ -41,9 +41,8 @@ I found repeated signs of value while doing my research on Gray Television, and 
 
 **Sources, in order of reference:**
 
-1. Statista. “South Korea: High-Speed Internet Provider Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700595/south-korea-high-speed-internet-provider-market-share/.
-2. Statista. “South Korea: Mobile Phone Market Share 2019.” Accessed March 7, 2021. https://www.statista.com/statistics/700467/south-korea-mobile-phone-market-share/.
-3. “Global Business, KT.” Accessed March 7, 2021. https://corp.kt.com/eng/html/global/main.html.
-4. TIKR: Institutional-grade investing for Individuals. “KT Corporation (KT).” Accessed March 7, 2021. https://app.tikr.com/stock/financials?cid=416000&tid=2623479.
-5. Morningstar. “KT Corp ADR (KT) Valuation.” Accessed March 7, 2021. https://www.morningstar.com/stocks/xnys/kt/valuation.
-6. Charles Schwab. “KT Corp, Comparisons.” Accessed March 7, 2021. https://client.schwab.com/secure/cc/research/stocks/stocks.html?path=/research/Client/Stocks/Earnings/Ratios&symbol=KT.
+1. “Companies - Gray Television.” Accessed April 27, 2021. https://gray.tv/companies.
+2. “Form 10-K, Gray Television, Inc.” United States Securities and Exchange Commission. Accessed April 27, 2021. https://www.sec.gov/Archives/edgar/data/0000043196/000143774920003706/gtn20191231_10k.htm.
+3. “TIKR: Institutional-Grade Investing for Individuals.” Accessed April 27, 2021. https://app.tikr.com/stock/financials?cid=322777&tid=2616221&ref=81l3ra.
+4. “Gray Television Inc (GTN) Valuation - XNYS - Morningstar.” Accessed April 27, 2021. https://www.morningstar.com/stocks/xnys/gtn/valuation.
+5. Charles Schwab. “Gray Television, Inc. - Comparisons.” Accessed April 27, 2021. https://client.schwab.com/secure/cc/research/stocks/stocks.html?path=/research/Client/Stocks/Earnings/Ratios&symbol=GTN.
