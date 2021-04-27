@@ -1,0 +1,1 @@
+# Gray Television, Inc. (GTN)
