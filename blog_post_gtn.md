@@ -22,8 +22,6 @@ I see Gray Television as a value play, but they’ve also shown significant reve
 
 ![chart](https://user-images.githubusercontent.com/72818268/116291864-12909c00-a763-11eb-8a5d-b5f11ca6cd91.png)
 
-![chart](https://user-images.githubusercontent.com/72818268/116291899-18867d00-a763-11eb-9981-7575af9abbd3.png)
-
 
 #### Valuation
 
