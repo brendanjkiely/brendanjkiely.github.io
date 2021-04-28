@@ -1,4 +1,5 @@
 # KT Corporation (KT)
+### Price as of 3/8/21: $11.53
 
 #### Background
 It may come as a surprise that the next addition to my portfolio is a company at the cutting edge of 5G innovation. I try to stay clear of predicting the next big player in a space and stick to companies that offer proven products with competitive advantages or products that I think will last for decades into the future. Although KT Corp is a Korean telecommunications company fighting to be a world leader in 5G, they have a strong history within the Korean telecom industry and offer a diverse range of products that produce hefty, predictable, and (most of all) cheap free cash flows. 
