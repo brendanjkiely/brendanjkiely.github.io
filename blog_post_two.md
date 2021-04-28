@@ -1,4 +1,5 @@
 # Corcept Therapeutics (CORT)  
+### Price as of 11/13/20: $18.14
 
 The second company that I added to my portfolio was a younger company in a line of business much different than cement. This second company was Corcept Therapeutics—a pharmaceutical company based out of California and founded in 1998. I first found Corcept on October 30th on the list of “magic formula” stocks on Joel Greenblatt’s magicformulainvesting.com. This list features the top 30 stocks on the market based on their combined Return on Capital and Earnings Yield, using data from October 29th. I knew that its place on this list gave Corcept some merit, but I chose Corcept over other companies on this list for several reasons. Corcept offers a record of rapid growth and a strong and improving financial position, but its most enticing characteristic is its sublime returns on capital. It may not hit all the traditional value benchmarks, but the characteristics I mentioned above contribute to a margin of safety that I believe qualifies this position as having value.  
 
