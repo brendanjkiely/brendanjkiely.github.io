@@ -1,4 +1,5 @@
 # Monarch Cement Company (MCEM)   
+### Price as of 10/28/20: $56.25
 
 The first company that became part of my portfolio is in a line of business that some may find boring: Cement. I decided that, at least for now, it didn’t make sense to shy away from boring industries or companies. My goal is to find companies that I can buy for bargain prices in any industry. Peter Lynch was my main inspiration for embracing boring industries and companies. He argues that boring companies are often ignored by most investors, who would rather follow cutting-edge companies with new technologies and attractive products. He suggests (at least for an amateur like myself) turning instead to companies with boring, time-tested products that are made better by other technologies that improve their production efficiency or implementation. Monarch Cement Company is exactly that.  
 
